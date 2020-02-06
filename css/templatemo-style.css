@@ -351,10 +351,10 @@ h3.profile-title {
 }
 .social-icons a {
   font-size: 33px;
-  color: #1E2834;
+  color: #ffffff;
 }
 .social-icons a:hover {
-  color: #ffffff;
+  color: #5ec3eb;
 }
 
 .responsive-header {
