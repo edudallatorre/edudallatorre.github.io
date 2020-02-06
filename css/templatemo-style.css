@@ -343,14 +343,14 @@ h3.profile-title {
 
 .social-icons {
   display: block;
-  padding: 20px 40px;
+  padding: 50px 40px;
 }
 .social-icons li {
   display: inline-block;
   margin-right: 20px;
 }
 .social-icons a {
-  font-size: 25px;
+  font-size: 28px;
   color: #ffffff;
 }
 .social-icons a:hover {
@@ -408,10 +408,9 @@ h3.profile-title {
 }
 
 .toggle-menu {
-  width: 100%;
   display: block;
   padding: 15px;
-  margin-top: 20px;
+  margin: 0px 0px 20px 0px;
   background: #1E2834;
   color: white;
   font-size: 18px;
