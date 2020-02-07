@@ -257,6 +257,14 @@ h4.widget-title {
   margin-bottom: 40px;
 }
 
+h2.widget-title {
+  padding: 30px 0px 0px 0px;
+  font-size: 18px;
+  font-family: 'robotobold';
+  margin-bottom: 40px;
+  color: #5ec3eb;
+}
+
 hr {
   position: relative;
   outline: 0;
