@@ -546,7 +546,7 @@ h3.profile-title {
   height: 100%;
   top: 40px;
   left: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: #1e2834eb;
   opacity: 0;
   visibility: 0;
   -webkit-transition: all 200ms linear;
