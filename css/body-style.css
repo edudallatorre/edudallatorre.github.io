@@ -416,7 +416,7 @@ h3.profile-title {
 }
 
 .codepen{
-	  text-align: center;	
+  text-align: center;	
   font-size: 20px;
   width: 140px;
   height: 35px;
@@ -432,6 +432,58 @@ h3.profile-title {
 .codepen a{
 	color: #ffffff;
 }
+
+.messenger{
+  text-align: center;	
+  font-size: 20px;
+  width: 140px;
+  height: 35px;
+  color: #ffffff;
+  background-color: #007CFF;
+  border: 2px solid;
+  -webkit-border-radius: 80px;
+  border-radius: 80px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.messenger a{
+	color: #ffffff;
+}
+
+.whatsapp-icon{
+  text-align: center;	
+  font-size: 20px;
+  width: 140px;
+  height: 35px;
+  color: #ffffff;
+  background-color: #38BD4A;
+  border: 2px solid;
+  -webkit-border-radius: 80px;
+  border-radius: 80px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.whatsapp-icon a{
+	color: #ffffff;
+}
+
+.telegram{
+  text-align: center;	
+  font-size: 20px;
+  width: 140px;
+  height: 35px;
+  color: #ffffff;
+  background-color: #029AE5;
+  border: 2px solid;
+  -webkit-border-radius: 80px;
+  border-radius: 80px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.telegram a{
+	color: #ffffff;
+}
+
 
 .responsive-header {
   background: #283140;
