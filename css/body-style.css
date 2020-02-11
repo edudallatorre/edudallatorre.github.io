@@ -1,10 +1,14 @@
-/*
+.text-cursor {
+  opacity: 1;
+  animation: cursor-flash 1.6s infinite;
+}
 
-Volton Template
-
-http://www.templatemo.com/tm-441-volton
-
-*/
+@keyframes cursor-flash {
+    49% {opacity: 1;}
+    50% {opacity: 0;}
+    99% {opacity: 0;}
+    100% {opacity: 1;}
+}
 
 @font-face {
   font-family: 'robotolight';
