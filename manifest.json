@@ -3,8 +3,8 @@
     "short_name": "DallaTorre",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#FFE9D2",
-    "theme_color": "#FFE1C4",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
     "orientation": "portrait-primary",
     "icons": [
         {
