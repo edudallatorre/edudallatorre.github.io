@@ -1,7 +1,7 @@
 var tags = [
-  "This website aims to show my portfolio and share my knowledge about Design and Programming.",
-  "Come be part of this team, through my social networks.",
-  "My mission is to add knowledge."
+  "I'm very motivated, and love doing what I do.",
+  "I'm a team player. I'm happy to collaborate with other people on projects.",
+  "I'm very conscientious. I take care to make sure I do a good job."
 ]
 
 $(document).ready(function(){
