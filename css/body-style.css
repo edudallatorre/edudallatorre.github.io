@@ -7,7 +7,7 @@
 }
 
 ::-webkit-scrollbar-track-piece {
-  background-color: #1E2834;
+  background-color: #001329;
   -webkit-border-radius: 0px;
 }
 
@@ -327,7 +327,7 @@ body {
   color: #ffffff;
   font-family: 'robotoregular';
   overflow-x: hidden;
-  background-color: #1E2834;
+  background-color: #001329;
 }
 
 a {
@@ -433,7 +433,7 @@ hr {
   width: 23%;
   height: 100%;
   position: fixed;
-  background: #283140;
+  background: #071e3a;
   color: white;
   overflow-y: hidden;
 }
@@ -451,7 +451,7 @@ hr {
 .profile-image {
   width: 150px;
   height: 150px;
-  border: 4px solid #1E2834;
+  border: 4px solid #001329;
   -webkit-border-radius: 75px;
   border-radius: 75px;
   overflow: hidden;
@@ -485,13 +485,13 @@ h3.profile-title {
   font-size: 24px;
 }
 .main-navigation li a:hover {
-  background: #1e283449;
+  background: #00132949;
 }
 .main-navigation li a.active {
-  background: #1E2834;
+  background: #001329;
 }
 .main-navigation li a.active:hover {
-  background: #1E2834;
+  background: #001329;
 }
 
 .social-icons {
@@ -631,7 +631,7 @@ h3.profile-title {
 
 
 .responsive-header {
-  background: #283140;
+  background: #071e3a;
   text-align: center;
 }
 @media screen and (max-width: 992px) {
@@ -673,10 +673,10 @@ h3.profile-title {
     padding: 10px;
   }
   .main-navigation a.active {
-    background: #283140 !important;
+    background: #071e3a !important;
   }
   .main-navigation a:hover {
-    background: #283140 !important;
+    background: #071e3a !important;
   }
 }
 
@@ -684,7 +684,7 @@ h3.profile-title {
   display: block;
   padding: 15px;
   margin: 0px 0px 20px 0px;
-  background: #1E2834;
+  background: #001329;
   color: white;
   font-size: 18px;
 }
@@ -811,7 +811,7 @@ h3.profile-title {
   height: 100%;
   top: 40px;
   left: 0;
-  background: #1e2834eb;
+  background: #001329eb;
   opacity: 0;
   visibility: 0;
   -webkit-transition: all 200ms linear;
@@ -857,7 +857,7 @@ h3.profile-title {
 }
 .contact-form .button {
   width: auto;
-  background: #283140;
+  background: #071e3a;
   color: white;
   text-transform: uppercase;
   border: 0;
@@ -871,8 +871,8 @@ h3.profile-title {
   font-size: 13px;
 }
 #footer p.copyright-text a {
-  color: #283140;
+  color: #071e3a;
 }
 #footer p.copyright-text a:hover {
-  color: #1E2834;
+  color: #001329;
 }
