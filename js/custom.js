@@ -1,7 +1,16 @@
 var tags = [
-  "I'm very motivated, and love doing what I do.",
-  "I'm a team player. I'm happy to collaborate with other people on projects.",
-  "I'm very conscientious. I take care to make sure I do a good job."
+  "git config --global user.name “Your name”",
+  "git config --global user.email “Your email”",
+  "git config --list",
+  "git clone",
+  "git init",
+  "git add .",
+  "git commit -m 'update'",
+  "git push origin master",
+  "git log",
+  "git checkout -b “nome-da-branch”",
+  "git branch",
+  "git fetch"
 ]
 
 $(document).ready(function(){
