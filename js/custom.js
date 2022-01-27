@@ -5,10 +5,10 @@ var tags = [
   "git clone",
   "git init",
   "git add .",
-  "git commit -m 'update'",
+  "git commit -m 'comment-here'",
   "git push origin master",
   "git log",
-  "git checkout -b “nome-da-branch”",
+  "git checkout -b “branch-name”",
   "git branch",
   "git fetch"
 ]
